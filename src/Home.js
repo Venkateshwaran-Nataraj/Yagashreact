@@ -7,7 +7,7 @@ function Home() {
     <div className="home-container">
       <h2>All Mars Resources</h2>
       <div className="image-gallery">
-        <img src="https://m.media-amazon.com/images/I/41fCDR6pjpL._SX300_SY300_QL70_FMwebp_.jpg"/>
+        <img src="https://m.media-amazon.com/images/I/41fCDR6pjpL._SX300_SY300_QL70_FMwebp_.jpg" alt='mob1'/>
         
         <div className="benefits-paragraph">
         <p>
@@ -26,7 +26,7 @@ function Home() {
         Also, if you like to make the most out of your smartphones, you can exchange your old device in place of an upgraded one through Samsung EPP.
       </p>
       </div>
-        <img src="https://m.media-amazon.com/images/I/61g1pqSjAhL._SX679_.jpg"/>
+        <img src="https://m.media-amazon.com/images/I/61g1pqSjAhL._SX679_.jpg" alt='mob2'/>
         <div className="oneplus-history">
 
 
@@ -38,7 +38,7 @@ function Home() {
         OnePlus has emerged as a prominent player in the Indian smartphone market, offering a diverse range of devices that cater to various needs and preferences. When it comes to finding the best OnePlus phone in India, there are several compelling options. For those seeking exceptional camera capabilities, the phones by OnePlus are known for their impressive camera systems, capturing stunning photos and videos with ease. OnePlus phones are also known for their competitive pricing, delivering remarkable value for the features they offer. The combination of powerful processors, vibrant displays, and innovative design makes them contenders for the title of the best mobile phone in India. Whether you prioritize camera quality, overall performance, or affordability, OnePlus has a smartphone that fits the bill, making it a strong contender for the best phone in India.
       </p>  
       </div>
-        <img src="https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg"/>
+        <img src="https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg" alt='mob3'/>
         <div className="apple-smartphone-history">
         <p>
         Apple designed its first mobile smartphone to run the Mac OS X operating system, made popular on the company’s personal computers. The device’s most revolutionary element was its touch-sensitive multisensor interface. The touchscreen allowed users to manipulate all programs and telephone functions with their fingertips rather than a stylus or physical keys. This interface—perfected, if not invented, by Apple—recreated a tactile physical experience; for example, the user could shrink photos with a pinching motion or flip through music albums using a flicking motion. The iPhone also featured Internet browsing, music and video playback, a digital camera, visual voicemail, and a tabbed contact list.
